@@ -4,8 +4,9 @@
 Welcome to the **closeAI**'s repository for participating in the **trAInit datathon!** Here, you'll find our notebooks.
 
 ## Team members
-<!-- readme: collaborators,contributors -start -->
-<!-- readme: collaborators,contributors -end -->
+<a href="https://github.com/belaid-sarah/trainit-datathon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=belaid-sarah/trainit-datathon" />
+</a>
 
 ## Challenges
 - Will I be able to fast this Ramadan?
